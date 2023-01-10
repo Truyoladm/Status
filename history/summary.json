@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1937,
-    "timeDay": 1754,
-    "timeWeek": 2057,
-    "timeMonth": 1937,
-    "timeYear": 1937,
+    "time": 1932,
+    "timeDay": 1688,
+    "timeWeek": 2035,
+    "timeMonth": 1932,
+    "timeYear": 1932,
     "dailyMinutesDown": {}
   },
   {
@@ -23,17 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bo.truyol.com.ico",
     "slug": "bo-truyol",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3569,
-    "timeDay": 3006,
-    "timeWeek": 3285,
-    "timeMonth": 3569,
-    "timeYear": 3569,
-    "dailyMinutesDown": {}
+    "uptime": "99.97%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 3574,
+    "timeDay": 3249,
+    "timeWeek": 3311,
+    "timeMonth": 3574,
+    "timeYear": 3574,
+    "dailyMinutesDown": {
+      "2023-01-10": 10
+    }
   },
   {
     "name": "Blog Truyol",
@@ -41,16 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/truyol.com.ico",
     "slug": "blog-truyol",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 727,
-    "timeDay": 742,
-    "timeWeek": 736,
-    "timeMonth": 727,
-    "timeYear": 727,
-    "dailyMinutesDown": {}
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 726,
+    "timeDay": 716,
+    "timeWeek": 732,
+    "timeMonth": 726,
+    "timeYear": 726,
+    "dailyMinutesDown": {
+      "2023-01-10": 8
+    }
   }
 ]
